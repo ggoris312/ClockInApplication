@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/ip_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Server IP Address"
+        android:inputType="textUri" />
+
+    <Button
+        android:id="@+id/ip_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save IP" />
+
+    <EditText
+        android:id="@+id/port_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Port Number"
+        android:inputType="textUri" />
+
+    <Button
+        android:id="@+id/port_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Port" />
+</LinearLayout>
