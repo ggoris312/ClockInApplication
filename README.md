@@ -1,6 +1,6 @@
-#ClockInApplication
+# ClockInApplication
 
-##Notes
+## Notes
 
 This application requires an online connection, and a webserver to connect to. 
 Will be adding a server using MEAN stack application to work with this later.
