@@ -11,5 +11,5 @@ Will be adding a server using MEAN stack application to work with this later.
 
 * Change json parser to instead use GSON and a class model.
 
-*Change the MVC design to use flux instead as this will simplify the connection using retrofit and observables.
+* Change the MVC design to use flux instead as this will simplify the connection using retrofit and observables.
 
